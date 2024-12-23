@@ -1,2 +1,4 @@
-# DataInsight
-Data Insight
+# 数据洞察
+
+数据驱动，从数据中学习知识，发现洞见
+
